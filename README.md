@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**wdcdiego/wdcdiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá, eu sou o Weiilington!
+- 🎂 33 anos
+- 🗺️ Paranaense
+- 👨‍🎓 Formado em Python pela Danki Code 
+- 📖 Estudando .Net 
+- 😄  ele/dele
+- Pode me encontrar nas redes sociais através do link abaixo ⬇️
+<div>
+<a href="https://linktr.ee/wdcdiego" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" target="_blank"></a>  
+  </div>

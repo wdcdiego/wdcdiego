@@ -1,4 +1,4 @@
-### Olá, eu sou o Weiilington!
+### Olá, eu sou o Wellington!
 - 🎂 33 anos
 - 🗺️ Paranaense
 - 👨‍🎓 Formado em Python pela Danki Code 

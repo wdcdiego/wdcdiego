@@ -2,7 +2,7 @@
 - 🎂 33 anos
 - 🗺️ Paranaense
 - 👨‍🎓 Formado em Python pela Danki Code 
-- 📖 Estudando .Net 
+- 📖 Estudando Front End 
 - 😄  ele/dele
 - Pode me encontrar nas redes sociais através do link abaixo ⬇️
 <div>

@@ -1,5 +1,5 @@
 ### Olá, eu sou o Wellington!
-- 🎂 33 anos
+- 🎂 34 anos
 - 🗺️ Paranaense
 - 📖 Estudando Front-End 
 - Pode me encontrar nas redes sociais através do link abaixo ⬇️

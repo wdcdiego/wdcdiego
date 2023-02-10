@@ -1,7 +1,6 @@
 ### Olá, eu sou o Wellington!
 - 🎂 33 anos
 - 🗺️ Paranaense
-- 👨‍🎓 Formado em Python 
 - 📖 Estudando Front-End 
 - Pode me encontrar nas redes sociais através do link abaixo ⬇️
 <div>
